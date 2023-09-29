@@ -1,42 +1,42 @@
-.webimg{
+.webimg {
     height: 750px;
     width: 500px;
     padding-left: 10px;
 }
 
-.abc{
+.abc {
     color: black;
     font-size: medium;
     line-height: 10px;
 }
 
-.col-md-4{
+.col-md-4 {
     height: 350px;
     width: 500px;
     border-color: white;
 }
 
-.card1{
+.card1 {
     height: 400px;
     width: 450px;
     padding-left: 5px;
     padding-right: 5px;
 }
 
-.card2{
+.card2 {
     height: 200px;
     width: 450px;
     padding-left: 5px;
     padding-right: 5px;
 }
 
-.card3{
+.card3 {
     height: 500px;
     width: 450px;
     padding-left: 5px;
 }
 
-.abc{
+.abc {
     padding-left: 5px;
     padding-right: 400px;
     border: 1cm;
@@ -46,94 +46,95 @@
     font-family: 'Times New Roman';
 }
 
-.imgcard{
+.imgcard {
     padding-left: 100px;
     padding-top: 150px;
     width: 900px;
 }
 
-#cc{
+#cc {
     font-family: 'Times New Roman';
     font-size: medium;
     line-height: .5cm;
     padding-right: 20px;
 }
 
-.ll{
+.ll {
     line-height: .1cm;
 }
-.card11{
+
+.card11 {
     height: 400px;
     width: 390px;
     padding-right: 5px;
 }
 
-.card22{
+.card22 {
     height: 200px;
     width: 390px;
     padding-left: 5px;
     padding-right: 5px;
 }
 
-.card33{
+.card33 {
     height: 500px;
     width: 380px;
     padding-left: 5px;
 }
 
-.imgcard1{
+.imgcard1 {
     height: 150px;
 }
 
-.ll{
+.ll {
     line-height: .1cm;
 }
 
-.image{
+.image {
     display: block;
 }
 
-#liki{
+#liki {
     height: 200px;
     padding-right: 40px;
     width: 300px;
     padding-bottom: 10px;
 }
 
-#liki6{
+#liki6 {
     height: 600px;
     width: 860px;
     padding-top: 20px;
 }
 
-#liki5{
+#liki5 {
     height: 360px;
     width: 260px;
     padding-bottom: 50px;
 }
 
-#liki7{
+#liki7 {
     height: 360px;
     width: 260px;
     padding-bottom: 30px;
 }
 
-#liki2{
+#liki2 {
     width: 300px;
 }
 
-.image-container{
+.image-container {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#mmm{
+#mmm {
     width: 300px;
     height: 300px;
 }
 
-#sss{
+#sss {
     display: flex;
     flex-direction: column;
 }
