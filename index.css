@@ -1,5 +1,5 @@
 .webimg{
-    height: 350px;
+    height: 750px;
     width: 500px;
     padding-left: 10px;
 }
@@ -80,4 +80,45 @@
 }
 .ll{
     line-height: .1cm;
+}
+
+.image{
+    display: block;
+}
+#liki{
+    height: 200px;
+    padding-right: 40px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+#liki6{
+    height: 600px;
+    width: 860px;
+    padding-top: 20px;
+}
+#liki5{
+    height: 360px;
+    width: 260px;
+    padding-bottom: 50px;
+}
+#liki7{
+    height: 360px;
+    width: 260px;
+    padding-bottom: 30px;
+}
+#liki2{
+    width: 300px;
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#mmm{
+    width: 300px;
+    height: 300px;
+}
+#sss{
+    display: flex;
+    flex-direction: column;
 }
